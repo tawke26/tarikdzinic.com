@@ -1,0 +1,14 @@
+{
+  "name": "minimalistic-blog",
+  "version": "1.0.0",
+  "description": "A brutally simple, zero-dependency static blog generator",
+  "main": "generate.js",
+  "scripts": {
+    "build": "node generate.js",
+    "dev": "node generate.js && echo Site generated in ./build/ - Open build/index.html in browser",
+    "clean": "rm -rf build/*"
+  },
+  "keywords": ["blog", "static", "minimal", "markdown"],
+  "author": "Your Name",
+  "license": "MIT"
+}

@@ -1,0 +1,28 @@
+---
+title: Flow. How?
+date: 2025-01-05
+tags: psychology, productivity, books
+---
+Flow… The feeling of a child playing, completely separated from reality, deeply entangled in what they do, without a care in the world. This is how most of us experience it for the first time. Csikszentmihalyi says there are 8 elements that form the flow experience:
+
+confronting challenges but completing tasks,
+concentrating,
+having a clear goal,
+immediate feedback,
+lack of awareness,
+sense of control over actions,
+disconnection from “self,”
+sense of time disappears.
+
+I see the flow as a lack of the need to constantly reflect on what we’re doing. It goes something like… first decide what you want to do. No need for overly complex planning, but having a goal sets the stage for flow. Being all over the place doesn’t help. Focus, aka concentration, maybe some coffee,don’t wander off, set things to do, and keep going by getting immediate feedback. “Are you progressing?” - is the question your mind ALWAYS asks, so be able to respond to it. There are a few options, like creating micro-tasks, either on a piece of paper or just making super simple prototypes that’ll get you going. YOU NEED TO SEE PROGRESS! There is this tool people like, for breaking down a task into smaller ones: Magic ToDo - GoblinTools. With regular feedback, you’ll start losing the awareness, yet feel in control of the actions - “the flowy feeling.” It just goes, it does, and it is. You feel disconnected from yourself, with complete immersion in the task, as time disappears, and you enjoy the process of creation.
+
+A few more things to take from this book are:
+
+Maybe you shouldn’t live for yourself. Our culture tells us that we’re our own God. This does not help the flow. When we feel the most distant from ourselves, we get to experience flow. I think one of the most important questions to ask is: Why obsess over self-improvement when you have something to live for? Work, have fun. Self-improvement happens passively, without the need for constant work. Focus outward, not inward. See the world, and only then will you understand yourself. As Žižek says: I don’t want to look within, as all I find is shit... The real world is out there.
+“The lion, when he runs after a pack of gazelles, can only catch them one at a time.”
+Freedom doesn’t necessarily help develop meaning in life—on the contrary, it distracts you from it. Choices can be fewer and clearer. Today, we’re going everywhere and nowhere. I find Dostoyevsky appropriate for this. In Crime and Punishment, Marmeladov (a desperate man, the epitome of bottomness) is talking to Raskolnikov (the main character who is spiraling down) when he says: “It is necessary that every man have at least somewhere to go. For there are times when one absolutely must go at least somewhere!” I think this sentence should be repeated endlessly. Maybe even, someday, engraved on my grave.
+"Seeking pleasure is a reflexive response, built into us for the preservation of the species, not for our own personal benefit." So many experiences around us are, and can be fulfilling, yet we don’t desire them, so we reject them. This is where it’s good to ask ourselves: Is freedom what we want, and is that what makes us happy? The paradox of our time is that leisure time fails to be transformed into enjoyment.
+Stoicism reminder: “If you are pained by external things, it is not that they disturb you, but your own judgment of them.” Everyone seems to have an opinion today, even if they don’t understand anything about it. “To become a man means to be responsible, to know when it’s time to speak, to know what has to be said, to know when one must stay silent.”
+What’s your “big goal” that organizes your “sense of self”? “Ultimate/unified goal: Turning life into a unified flow experience. If a person sets out to achieve a difficult enough goal, from which all other goals follow logically, and if he invests all energy in developing skills to reach that goal, then actions and feelings will be in harmony, and the separate parts of life will fit together—and each activity will make sense in the present, as well as in view of the past and future.”
+Learning with love: “How can one find more value in memory? The most natural way to begin is to decide what subject one is really interested in—poetry, fine cuisine, the history of the Civil War, or baseball—and then start paying attention to key facts and figures in that chosen area. With a good grasp of the subject will come the knowledge of what’s worth remembering and what isn’t. You shouldn’t feel you have to absorb a string of facts, that there’s a right list you must memorize. If you decide what you’d like to have in memory, the information will be under your control, and the whole process of learning by heart will become a pleasant task. A Civil War buff need not feel compelled to know the sequence of dates of all major engagements; if, for instance, he’s interested in the role of the artillery, then only those battles where cannons played an important part need concern him. Some people carry with them the texts of choice poems or quotations written on pieces of paper, to glance over whenever they feel bored or dispirited. It’s amazing what a sense of control it gives to know that favorite facts or lyrics are always at hand. Once they’re stored in memory, however, this feeling of ownership—or better, of connectedness with the content recalled—becomes even more intense.”
+Slow down, break it down, take it step-by-step, and look back at the awe of what you’ve achieved.
